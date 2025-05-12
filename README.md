@@ -1,6 +1,8 @@
-(Disclaimer: The scripts are made by Nvidia, not by me. I just somehow found a way not to get forcefully redirected when logging in)
+(Disclaimer: The scripts are made by Nvidia, not by me. I just somehow found a way not to get forcefully redirected when logging in my Nvidia account)
 
 TODO: The description will be updated later, stay tuned! 
+
+
 
 # Switch Nvidia app login region with ease!
 Are you one of the victims of being forcefully redirected to Nvidia CN site when logging in with your global account?
