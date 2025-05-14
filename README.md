@@ -26,4 +26,4 @@ This is for Mainland Chinese users, or those who registered their Nvidia accoubt
 
 ## en-LC.json (Global users only 仅限全球站点注册用户使用)
 This is for global users (the global site is not usable in Mainland China!)
-僅供全球站点注册用户使用，全球站点并不适用于中国大陆地区。
+僅供全球站点注册用户使用，全球站点并不能在中国大陆地区使用。
