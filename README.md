@@ -18,7 +18,7 @@ But what if you want to log in to the global site instead? That's where these js
 ## How do I switch between global and CN login site when logging in with my Nvidia account via the Nvidia App? 我如何透过 NVIDIA APP，切换全球站点和国区站点登陆 NVIDIA 账号？
 1. Locate the json file `LocalizedConfig.json`  (By default and in most cases, the json file should be located in C drive, where you installed your Nvidia App. In my case:  `C:\ProgramData\NVIDIA Corporation\NVIDIA app\NvConfig\LocalizedConfig.json`) 找到 json 档 `LocalizedConfig.json` (正常情况下，json 档位于你安装 NVIDIA APP 的 C 盘，例如：`C:\ProgramData\NVIDIA Corporation\NVIDIA app\NvConfig\LocalizedConfig.json`)。
 
-2. Modify the file `LocalizedConfig.json` to apply the changes, so you can log in your Nvidia account via Nvidia (Global) or Nvidia (Mainland China) as you desire! 通过修改 json 档 `LocalizedConfig.json` 来应用改变，透过 NVIDIA (全球) 或 NVIDIA (中国大陆) 登陆 NVIDIA 账号。
+2. Modify the file `LocalizedConfig.json` by copying and pasting the json file contents to apply the changes, so you can log in your Nvidia account via Nvidia (Global) or Nvidia (Mainland China) as you desire! 通过复制粘贴 json 档内容，修改 json 档 `LocalizedConfig.json`，以便隨時切換 NVIDIA (全球) 或 NVIDIA (大陆) 登陆 NVIDIA 账号。
 
 ## cn-LC.json (For Mainland China registered users 国区站点注册用户使用)
 This is for Mainland Chinese users, or those who registered their Nvidia accoubt via the CN site. (Usable inside and outside Mainland China). This is what you'll see the things coded in the json file if you've recently been connected to a Mainland Chinese Wi-Fi network (it's weird but it seems to be the case, it just changes it automatically)
