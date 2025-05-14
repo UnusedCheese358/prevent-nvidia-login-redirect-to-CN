@@ -18,10 +18,12 @@ But what if you want to log in to the global site instead? That's where these js
 ## How do I switch between global and CN login site when logging in with my Nvidia account via the Nvidia App? 我如何透过 NVIDIA APP，切换全球站点和国区站点登陆 NVIDIA 账号？
 1. Locate the json file `LocalizedConfig.json`  (By default and in most cases, the json file should be located in C drive, where you installed your Nvidia App. In my case:  `C:\ProgramData\NVIDIA Corporation\NVIDIA app\NvConfig\LocalizedConfig.json`) 找到 json 档 `LocalizedConfig.json` (正常情况下，json 档位于你安装 NVIDIA APP 的 C 盘，例如：`C:\ProgramData\NVIDIA Corporation\NVIDIA app\NvConfig\LocalizedConfig.json`)。
 
-2. Modify the file `LocalizedConfig.json` to apply the changes, so you can log in your Nvidia account via Nvidia (Global) or Nvidia (Mainland China) as you desire!
+2. Modify the file `LocalizedConfig.json` to apply the changes, so you can log in your Nvidia account via Nvidia (Global) or Nvidia (Mainland China) as you desire! 通过修改 json 档 `LocalizedConfig.json` 来应用改变，透过 NVIDIA (全球) 或 NVIDIA (中国大陆) 登陆 NVIDIA 账号。
 
-## cn-LC.json (For Mainland Chinese users and Mainland China registered users only 仅限注册地中国大陆的用户使用)
-This is for Mainland Chinese users, or those who registered their Nvidia accoubt via the CN site. (Usable inside and outside Mainland China). This is what you'll see in the json file if you've recently been connected to a Mainland Chinese Wi-Fi network (it's weird but it seems to be the case)
+## cn-LC.json (For Mainland China registered users 国区站点注册用户使用)
+This is for Mainland Chinese users, or those who registered their Nvidia accoubt via the CN site. (Usable inside and outside Mainland China). This is what you'll see the things coded in the json file if you've recently been connected to a Mainland Chinese Wi-Fi network (it's weird but it seems to be the case, it just changes it automatically)
+这是为大陆中国用户，或者那些透过国区站点注册 NVIDIA 账号 的用户。 (可在大陆中国范围内和外使用)。如果你最近连接过大陆中国 WLAN 网络，你会在 json 档中看到这个 json 档的内容（这很奇怪，但似乎是这样）。
 
-## en-LC.json (Global)
+## en-LC.json (Global users only 仅限全球站点注册用户使用)
 This is for global users (the global site is not usable in Mainland China!)
+僅供全球站点注册用户使用，全球站点并不适用于中国大陆地区。
