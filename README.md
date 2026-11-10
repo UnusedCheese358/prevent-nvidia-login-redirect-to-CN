@@ -1,4 +1,4 @@
-Disclaimer: The scripts are made by Nvidia, not by me. I just somehow found a way not to get forcefully redirected when logging in my Nvidia account
+Disclaimer: The json scripts are made by Nvidia, not by me. I just somehow found a way not to get forcefully redirected when logging in my Nvidia account
 宇宙通用免责声明：这些 json 档都是 Nvidia 编写出来的，非本人创作。只是我在 Nvidia 账户登录时，找到了不会被强制重定向的方法而以。
 
 # Change the region of the website when logging in your NVIDIA account with ease! 轻松切換 NVIDIA 账号登陆网站地区
